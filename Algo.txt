@@ -1,3 +1,6 @@
 Algo.txt
-Step 1: Order the pizza
-Step 2: Wait for the delivery
+Step 1: Pick the pizza place
+Step 2: Pick the type of pizza and any additional items
+Step 3: Place the order over the phone
+Step 4: Determine whether or not you want to pay in person or over the phone
+Step 5: Wait for the delivery after order has been placed.
